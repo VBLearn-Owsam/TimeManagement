@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "effort-management-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/effortManagement/EffortManagementWebPart.js",
+          "manifest": "./src/webparts/effortManagement/EffortManagementWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "EffortManagementWebPartStrings": "lib/webparts/effortManagement/loc/{locale}.js"
+  }
+}
