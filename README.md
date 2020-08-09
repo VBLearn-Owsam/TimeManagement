@@ -1,9 +1,7 @@
 ## Pre-Requisites
-  <ul>
-    <li>
-        Modern Office 365 sharepoint site with Library Name EffortManagement having field
-    </li>
-  </ul>
+  Numbered List:
+    Modern Office 365 sharepoint site with Library Name EffortManagement having field
+    
  1.Modern Office 365 sharepoint site with Library Name EffortManagement having field
     Title(Single line of text	)
 		Effort(Number)
