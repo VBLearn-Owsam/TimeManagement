@@ -1,6 +1,12 @@
-## effort-management-application
+## Pre-Requisites
 
-This is where you include your WebPart documentation.
+ 1.Modern Office 365 sharepoint site with Library Name EffortManagement having field
+    Title(Single line of text	)
+		Effort(Number)
+		Description(Multiple lines of text)
+		Category(Managed Metadata)
+		Approver(Person or Group )
+ 2. 
 
 ### Building the code
 
