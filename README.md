@@ -1,6 +1,12 @@
 ## Pre-Requisites
   Numbered List:
-    Modern Office 365 sharepoint site with Library Name EffortManagement having field
+    1.Modern Office 365 sharepoint site with Library Name EffortManagement having field
+      Numbered list:
+        1.Title(Single line of text	)
+		    2.Effort(Number)
+		    3.Description(Multiple lines of text)
+		    4.Category(Managed Metadata)
+		    5.Approver(Person or Group )
     
  1.Modern Office 365 sharepoint site with Library Name EffortManagement having field
     Title(Single line of text	)
